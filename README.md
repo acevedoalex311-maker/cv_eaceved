@@ -72,5 +72,3 @@ Especialista de datos enfocado en el ecosistema **Python, SQL y BI**, con sólid
 
 * **Inglés:** C1 (Avanzado)
 * **Francés:** B1 (Intermedio)
-
-Would you like me to tailor a professional summary or a cover letter based on this profile for a specific job application?
