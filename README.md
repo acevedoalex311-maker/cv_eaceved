@@ -29,7 +29,7 @@ Especialista de datos enfocado en el ecosistema **Python, SQL y BI**, con sólid
 *Oct 2022 – Sep 2023*
 
 * Automatización y estandarización de reportes operativos, reduciendo la carga de procesamiento manual en **10 horas mensuales**.
-* Diseño del programa de entrenamiento y construcción de indicadores clave para los tableros de **auditoría financiera**.
+* Construcción de modelos descriptivos para la definición de **KPI/KRI estratégicos**.
 * Diseño e implementación de un sistema para optimizar el índice de facturas **touchless** en el procesamiento de documentos de cuentas por pagar, logrando un margen de automatización del **80% al 85%** del volumen total de la operación.
 
 ### **Analista Financiero de Datos** | Holcim ABS
